@@ -63,10 +63,10 @@ BaoBao dapat mengecil menjadi kapsul pil mini yang tenang atau melebar (*expand*
 Anda dapat langsung mengunduh file installer resmi BaoBao melalui tombol direct download berikut:
 
 <p align="center">
-  <a href="https://github.com/achmadsuryas/BaoBao/releases/latest/download/BaoBao_0.1.0_x64-setup.exe">
+  <a href="https://github.com/achmadsuryas/BaoBao-Release/releases/latest/download/BaoBao_0.1.0_x64-setup.exe">
     <img src="https://img.shields.io/badge/Download-BaoBao%20Setup%20(.exe)-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer .exe" />
   </a>
-  <a href="https://github.com/achmadsuryas/BaoBao/releases/latest/download/BaoBao_0.1.0_x64_en-US.msi">
+  <a href="https://github.com/achmadsuryas/BaoBao-Release/releases/latest/download/BaoBao_0.1.0_x64_en-US.msi">
     <img src="https://img.shields.io/badge/Download-Windows%20Package%20(.msi)-0969da?style=for-the-badge&logo=windows&logoColor=white" alt="Download MSI" />
   </a>
 </p>
@@ -75,15 +75,15 @@ Anda dapat langsung mengunduh file installer resmi BaoBao melalui tombol direct 
 
 | File | Tipe | Link Unduh Langsung | Keterangan & Rekomendasi |
 | :--- | :--- | :--- | :--- |
-| **`BaoBao_0.1.0_x64-setup.exe`** | **NSIS Setup** | [⬇️ **Download .exe**](https://github.com/achmadsuryas/BaoBao/releases/latest/download/BaoBao_0.1.0_x64-setup.exe) | ✨ **Paling Direkomendasikan.** Installer otomatis, membuat shortcut di Desktop dan Start Menu secara instan. |
-| **`BaoBao_0.1.0_x64_en-US.msi`** | **MSI Package** | [⬇️ **Download .msi**](https://github.com/achmadsuryas/BaoBao/releases/latest/download/BaoBao_0.1.0_x64_en-US.msi) | Paket instalasi standar MSI untuk sistem Windows. Cocok untuk lingkungan deployment atau instalasi bersih. |
+| **`BaoBao_0.1.0_x64-setup.exe`** | **NSIS Setup** | [⬇️ **Download .exe**](https://github.com/achmadsuryas/BaoBao-Release/releases/latest/download/BaoBao_0.1.0_x64-setup.exe) | ✨ **Paling Direkomendasikan.** Installer otomatis, membuat shortcut di Desktop dan Start Menu secara instan. |
+| **`BaoBao_0.1.0_x64_en-US.msi`** | **MSI Package** | [⬇️ **Download .msi**](https://github.com/achmadsuryas/BaoBao-Release/releases/latest/download/BaoBao_0.1.0_x64_en-US.msi) | Paket instalasi standar MSI untuk sistem Windows. Cocok untuk lingkungan deployment atau instalasi bersih. |
 
 ---
 
 ### 🚀 Cara Mengunduh & Memasang:
 
 1. Unduh file installer melalui tautan langsung:  
-   👉 [**Download BaoBao Versi Terbaru**](https://github.com/achmadsuryas/BaoBao/releases/latest/download/BaoBao_0.1.0_x64-setup.exe) *(atau lihat semua versi di [GitHub Releases](https://github.com/achmadsuryas/BaoBao/releases))*
+   👉 [**Download BaoBao Versi Terbaru**](https://github.com/achmadsuryas/BaoBao-Release/releases/latest/download/BaoBao_0.1.0_x64-setup.exe) *(atau lihat semua versi di [GitHub Releases](https://github.com/achmadsuryas/BaoBao-Release/releases))*
 2. Setelah file selesai diunduh, buka file tersebut untuk memulai pemasangan.
 3. *Catatan Windows SmartScreen*: Jika muncul notifikasi proteksi *"Windows protected your PC"*, jangan khawatir—ini normal untuk aplikasi baru independen:
    - Klik **"More info"** (*Informasi selengkapnya*)
